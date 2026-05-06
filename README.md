@@ -1,0 +1,1 @@
+A classic Binary Search Tree implementation in Python featuring insertion, search, and three depth‑first traversals (in‑order, pre‑order, post‑order). The project runs directly from main.py and prints traversal results along with search checks.
